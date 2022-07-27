@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barcelladev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and NodeJS
+- 🌱 I’m currently learning NextJS and NestJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 LinkedIn:
