@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Leonardo Barcella | @lsbarcella
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJS and NestJS
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me:
-LinkedIn:
-https://www.linkedin.com/in/leonardo-barcella-924bab209/
+
 
 <div>
   <a href="https://github.com/lsbarcella">
